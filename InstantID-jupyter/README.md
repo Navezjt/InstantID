@@ -6,7 +6,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantID-jupyter/blob/main/InstantID_jupyter.ipynb) | InstantID_jupyter (Pro Colab 😭)
 
 ### 🧬 Code
-https://github.com/InstantID/InstantID
+- https://github.com/InstantID/InstantID
+- https://github.com/Navezjt/InstantID-hf
 
 ### 📄 Paper
 https://arxiv.org/abs/2401.07519
