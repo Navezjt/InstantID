@@ -3,7 +3,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/github/Navezjt/InstantID/blob/main/InstantID-jupyter/InstantID_jupyter.ipynb) | InstantID_jupyter (Pro Colab 😭)
+[![Open In Colab](https://colab.research.google.com/github/Navezjt/InstantID/blob/main/InstantID-jupyter/InstantID_jupyter.ipynb) | InstantID_jupyter_Navez (Pro Colab 😭)
 
 ### 🧬 Code
 - https://github.com/InstantID/InstantID
